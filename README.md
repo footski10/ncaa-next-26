@@ -44,97 +44,100 @@ The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 for the
 
 Features include:
 
-Core Game:
-- Modern Rosters & Coaches (310 coaches in total!)
-- New FBS Teams (Charlotte, Coastal, Liberty, Old Dominion, South Alabama, UTSA & Kennesaw State)
-- Updated Conference & League Setup
-- New Stadiums for existing teams and NFL stadiums added to game!
-- Outdoor Stadiums for teams that used to play in domes
-- Player Editor Enabled in all modes
-- Modern Playbooks including updated Coaching Strategies and Playcalling AI
-- ALL Modern NCAA Rules as of 2023
-- Upgraded Music Soundtrack (16 original + 16 new tracks)
-- Updated Player Number Generation Choices to match NCAA Rules, including "0" jersey numbers, 
-- Allows Duplicate Jersey Numbers
-- NCAA NEXT Settings within the EASY PLAY Menu
-- Transfer Portal On/Off and Chaos Amount Settings
-- Instant Defensive Playcalling for speeding up gameplay
-- New Accelerated Clock Options 
-- Play Lock functionality on OFFENSE and DEFENSE (You no longer have to play as QB!)
+`Next 26 Changelog:`
 
-Sim Engine:
-- Improved Sim Engine for Coaching Strategies and Stats
-- Improved Sim Stats
-- CPU Coaching Progression with dynamic prestige
-- "Free Agent" Coach Database have prestige to start finally
-- Massive overhaul of Ratings Calculations and Player Recruit Database
-- Re-wrote entire magazine headline and captions database (3500+ lines)
-- Pre-Season Injuries
-- CPU Position Changes to optimize depth charts
-- Off-season improvements and optimizations
-- Resets Sanction Meter after Team is placed on Probation
-- Resets Coaching Hot Seat Meter if Coach is Fired
+**General League Updates**
+* 136 Team Full FBS League with 2026 Conference Realignment including creation of new teams
+* 2025 Start Year
+* 2025 Player Rosters & Coaches, Heisman and Pre-Season All-Americans
+* 10 Additional Bowl Games Added to Post-Season, along with the College Football Playoff Rule Changes
+* Added a new team-developed College Football Playoff ranking system that should bias towards wins, losses, and strength of schedule and reduces conference prestige bias that results in teams with many losses in the Top 10
+* Pre-Season Injuries
+* Added Medical Redshirting (automatic) into the mod!
+* Improved Sim Engine and Sim Stats
+* Increased Stadium Count
+* Updated Stadiums for Coastal Carolina, and other teams
+* Updated Coaches with career stats (new feature!) and hot seat performance values based on real-life
+* Updated every coach with realistic coaching playbook, schemes, and pass ratios
+* Updated scheduling system to prioritize conference scheduling matchups of dissimilar conf prestige (i.e. Power 4 vs Group 6 games)
+* Fully removed 1A/1AA designations and converted to FBS/FCS naming
+* Added option for Notre Dame as an Independent team with an ACC hybrid schedule
+* Updated Team Overall / Team Rating System
+* CPU always picks the best player for each depth chart position in off-season
+* Aflac Kick-Off Game Special in Week 1!
+* 
 
-Game Engine:
-- Improved CPU Offensive Play Calling AI
-- Improved CPU Time Management at end of Half
-- Accelerated Play Clock Option
-- Instant Defensive Playcalling for speeding up gameplay
-- Play Lock functionality on OFFENSE and DEFENSE (You no longer have to play as QB!)
-- ALL Modern NCAA Game Rules as of 2023
+**Recruiting Updates**
+* Added full transfer portal system
+* Updated Recruiting Database
+* Revised Fullback Recruiting archetypes
+* New Names Database with 22,000 First and 22,000 Last Names File Added. * There are over 24.1 Million Unique name combinations now possible!
+* Added an additional layer of recruit randomization during off-season
+* Re-Rate In-Season Recruits in off-season
+* Removed 1-Star Recruits (moved to 2-Star)
+* Fullbacks, Kickers and Punters max out at 3-Stars
+* Updated Walk-On Database with improved appearance and gear selection
+* Removed Transfers re-joining original team from scoring system in Transfer Portal feature
+* Removes the ability for Athletes to become fullbacks
+* Added a feature to choose the best position for the "Athlete" role during recruiting/position change phase
+* Improved NFL Draft declarations
+* International Recruits
+* More varied In-Season Recruits
+* Realistic State by State recruit distribution based on real data
+* Polynesian Surnames and distribution by state
+* Recruit Randomizer including attributes, face, hair, etc.
+* New dialogs/captions
 
-Season Play:
-- Current Starting Year
-- Modern College Football Alignment/League Structure & Scheduling, including 12-Game Scheduling System and Notre Dame's rotation and rivalries
-- Added a neutral field kick-off game in Atlanta, GA. The Aflac Kick-Off.
-- Added CPU Coach Stat Tracking
-- CPU Coach Firing/Retiring, and Auto-Hire for CPU teams
-- Team Prestige, Academic, and Rankings all updated
-- Updated Heisman Candidates
-- Unlocked Pride Sticker Counter for all teams
-- Add an additional 4th Impact Player with user-selectable Captain/Impact Players in Off-Season
-- Every game will be televised now!
+**Gameplay Updates**
+* Modern NCAA Rules
+* New formation sets: Pistol Offense, Shotgun Wide Spread, Wide Slot and Duo
+* Modern Playbook Updates
+* Updated all playbook AI settings
+* 4 Impact Players by Default
+* Updated Player Fatigue System
+* Updated In-Game Scorebug with record displayed in dynasty mode
+* Updated every player's physical model shapes utilizing an updated and improved body shape algorithm
+* Instant Defensive Playcalling (similar to Corso offense picks)
+* Player Lock feature on both offense and defense - You can play as any position!
+* More Hot Route Options
 
-Post-Season:
-- College Football Playoff Built-In 
-- 12-Team Playoff (5 auto-bid conference champions + 7 at-large)
-- Conference Championships and Divisionless Conferences
-- New National Championship Sites (Philly, Denver, NEXT Arena, New Orleans, Houston, Detroit) - chosen each season at random!
-- Updated Bowl Games, Names and Sites
-- BCS Ranking Algorithm Fixes for Additional Teams
-- Add ability to have up to 12 conf champ games (with DB Editing)
 
-Recruiting & Off-Season:
-- Realistic Transfer Portal Recruiting and Waived Transfer Wait Period with up to 2000 transfers per season!
-- Enhanced Recruiting, including NIL Pitches, Improved In-Season Recruiting, Off-Season Recruiting improvements, etc.
-- Improved Recruiting and Walk-On Player Generation Databases
-- Improved Pro Draft Declaration requirements
-- Shows Graduating Seniors that go to NFL Draft in display
-- International Recruits from many countries
-- New player-to-coach dialogs including NFL, NIL, Transfer Portal and more
-- Modern Database of 8192 First and 8192 Last names for recruits
-- Polynesian surnames for western state schools
-- Larger Recruiting Database and more Athletes
-- New Recruit Randomizer with Skin Tone/Face/Hair coordinated styles
-- Updated Recruiting Algorithm to fully distribute available scholarships for all teams
+**Graphical Updates**
+* 26.5GB (51K+) high res graphics
+* Deinterlacing built-in to improve visuals
+* Modern Scorebug
+* Custom Uniforms and Glove options with up to 20 uniform combinations per team!
+* Tattoos and other new gear options
+* Athlon Sports Magazine Pre-Season Ranking List & Graphics
+* Updated Sports Illustrated to The Athletic for weekly news
+* Updated Uniform Expansion to add Kennesaw State
+* Upscaled Player and Coach face graphics
+* Updated Sideline camera crew textures
+* Updates to every team-specific scorebug
+* Fixed network broadcast logos for Playoff Bowl games (e.g. Sugar Bowl, Rose Bowl, etc.)
+* Hard Rock Stadium for Miami & Orange Bowl
+* Upscaled/Updated In-Game Composure Textures
+* Updated UI Textures in most menus
+* Updated On3 Rivals logo and in-season recruiting board
+* **Uniform Updates:** Boston College, Bowling Green, Central Michigan, Cincinnati, Florida State,  Hawai'i, Louisiana, Michigan, Old Dominion, Wyoming
+* **Updated Fields:** FAU, Kansas, Ohio State, Oregon, Miami, Missouri State
 
-Graphics & Animations:
-- Over 37,000 Textures Replaced at 4K Res+ (over 13GBs!)
-- De-Interlacing Built-In to improve visual quality
-- Modern Scorebug
-- Uniform Expansion - Up to 20 uniform kits per team, including unique gear/accessories!
-- Custom Gloves per Team Uniform
-- New Modern Gear and Accessories
-- Tattoos and Single Arm Sleeves
-- Enhanced Faces with AI Upscaling
-- Significantly more faces added to game
-- Uniform Numbers and Decals Fixes
-- 3D Model Body Shapes & Realistic Accessory Choices
-- Removed Stadium Cannon Celebrations
-- Added Oregon Duck Mascot
-- Sponsorship text updates and In-Game Text Updates
-- Changed Sports Illustrated to The Athletic
-- Upscaled Logos & Graphics
+**General Updates**
+* Player Editor unlocked in Dynasty Mode
+* Allowance of #0 and duplicate jersey numbers
+* New player rating system! This rating system rates players from 40-99 with no gaps. In the original game, there were only 32 unique ratings between players, that were translated into a 40-99 system. In this new update, there is now a full 60 values that represent the 40-99 spectrum.
+* Updated Player Overall Rating System & UI Display! Player Overall rating system to improve normal distribution, recruiting diversity, and player growth built with AI
+* New Music Soundtrack
+* New Main Menu video! We cracked the video codec!
+* Removed Mascot Games from Main Menu
+* Added Save Warnings to prevent crashes
+* Fixed Loading Screens with Loading Screen Updates
+* Allows up to 6 Create-A-School teams
+* User Interface/Menu updates utilizing new-in house compression tools to full revamp the game menu layouts
+* Updated database capacity sizes to reduce memory issues and increase capabilities for future (including the 40-99 system)
+* Rename T, G, C to OT, OG, OC in menu screens
+* Finally fixed the Play by Play team name calling of "newly created" FBS teams in this mod (e.g. Liberty, UTSA, Charlotte, Coastal Carolina, Old Dominion, South Alabama, Georgia State, Kennesaw State, etc). They will no longer be called "Air Force" but by their team name!
+* **Updated School Names: **California, East Carolina, Florida Intl, Hawai'i, Louisiana, Miami (OH), Middle Tennessee, Missouri State, Sam Houston, UConn
 
 # Media inquiries
 
