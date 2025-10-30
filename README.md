@@ -1,6 +1,7 @@
 # NCAA 06 Football Next 26
 
-![next26-banner-github-beta](https://github.com/user-attachments/assets/3a0a6a20-2719-474d-b663-373c8aabc54a)
+![ncaanext-twitter-banner-NEXT26](https://github.com/user-attachments/assets/a59d56c8-78f8-46bc-9264-51a1b9ad6d3a)
+
 
 <img width="380" height="114" alt="NCAA NEXT" src="https://github.com/user-attachments/assets/59fec24a-ed6b-493c-a911-33619e63a9cb" />
 
