@@ -25,7 +25,6 @@ tulane,home,dark,18-Facemask_Far.png,2851f1b3db89eaa6-42fe0ef085c97001-00005554.
 tulane,home,dark,20-Facemask_Near.png,b711c8941bef9d2f-e040e0597fc08e3c-00005554.png
 tulane,home,dark,pants.png,9df071ff2cad372a-c7bf4c5f6fc6f6c7-00006213.png
 tulane,home,dark,jersey.png,88363bb106f8ac4e-a17d0a53425af672-00006213.png
-tulane,home,dark,glove.png,5c85407f34aae606-c8c347e1d0cc7ebc-000059d3.png
 tulane,home,dark,num07.png,c2ca4aa43bcd2257-bda30e3acc25c4fc-00006214.png
 tulane,home,dark,num89.png,2413a5d1b0ccd2fd-bda30e3acc25c4fc-00005dd4.png
 tulane,home,dark,num07shadow.png,c2ca4aa43bcd2257-c006383c99eb0c44-00006214.png
@@ -34,4 +33,7 @@ tulane,home,dark,num07helmet.png,c2ca4aa43bcd2257-7e5e67ed249670ca-00006214.png
 tulane,home,dark,num89helmet.png,2413a5d1b0ccd2fd-7e5e67ed249670ca-00005dd4.png
 tulane,home,dark,num07ss.png,c2ca4aa43bcd2257-21e48a77539f5932-00006214.png
 tulane,home,dark,num89ss.png,2413a5d1b0ccd2fd-21e48a77539f5932-00005dd4.png
-tulane,home,dark,glove-second.png,72980add701fdb22-c8c347e1d0cc7ebc-000059d3.png
+tulane,home,dark,glove-uni-1.png,ed604dcd31bc5fd8-8b714b1453e0535b-000059d3.png
+tulane,home,dark,glove-uni-2.png,ed604dcd31bc5fd8-d46e14e2379ece38-000059d3.png
+tulane,home,dark,glove-uni-1-second.png,ed604dcd31bc5fd8-3a046f475474e33b-000059d3.png
+tulane,home,dark,glove-uni-2-second.png,ed604dcd31bc5fd8-d498866a299b677a-000059d3.png
