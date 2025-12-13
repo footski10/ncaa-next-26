@@ -25,7 +25,6 @@ tulane,alt16,light,18-Facemask_Far.png,8049fad9bacd360a-85cd0f85eaef4b5e-0000555
 tulane,alt16,light,20-Facemask_Near.png,574283f466126275-93b53ffe47efa233-00005554.png
 tulane,alt16,light,pants.png,ecbb1e4fda500e38-dfbb538a4e7d3a5c-00006213.png
 tulane,alt16,light,jersey.png,a1a157c65cea6615-75114a848dbbd16c-00006213.png
-tulane,alt16,light,glove.png,f4eef12aba9391e0-c8c347e1d0cc7ebc-000059d3.png
 tulane,alt16,light,num07.png,ee1666055916feee-7c7af47e62cb299c-00006214.png
 tulane,alt16,light,num89.png,476516b8b335d0e4-7c7af47e62cb299c-00005dd4.png
 tulane,alt16,light,num07shadow.png,ee1666055916feee-c006383c99eb0c44-00006214.png
@@ -34,4 +33,7 @@ tulane,alt16,light,num07helmet.png,ee1666055916feee-86372989f9238953-00006214.pn
 tulane,alt16,light,num89helmet.png,476516b8b335d0e4-86372989f9238953-00005dd4.png
 tulane,alt16,light,num07ss.png,ee1666055916feee-88d69c09588ec9f5-00006214.png
 tulane,alt16,light,num89ss.png,476516b8b335d0e4-88d69c09588ec9f5-00005dd4.png
-tulane,alt16,light,glove-second.png,a091e7cbeffffd24-c8c347e1d0cc7ebc-000059d3.png
+tulane,alt16,light,glove-uni-1.png,ed604dcd31bc5fd8-289685194b060f6b-000059d3.png
+tulane,alt16,light,glove-uni-2.png,ed604dcd31bc5fd8-915ed3463e36f931-000059d3.png
+tulane,alt16,light,glove-uni-1-second.png,ed604dcd31bc5fd8-5486c6f131a3cc5e-000059d3.png
+tulane,alt16,light,glove-uni-2-second.png,ed604dcd31bc5fd8-c36e7078c34854ca-000059d3.png
