@@ -1,5 +1,6 @@
 TEAM NAME,SLOT,TYPE,TEXTURE,FILENAME
 coastal,home,dark,06-TC_Face_Protector.png,70cf006c2ba8aad7-b43fd3c3b71d484d-00005994.png
+coastal,home,dark,25-TC_Face_Protector_Top.png,6b25aad02bc781bb-b43fd3c3b71d484d-00005554.png
 coastal,home,dark,14-Bk_TC_Pad.png,7681550dea5b951d-2ce949d00662ab66-00005993.png
 coastal,home,dark,10-Wt_TC_Pad.png,7681550dea5b951d-39a46fe22d32bd3d-00005993.png
 coastal,home,dark,07-TC_Med_Band--34_sleeve_top.png,be85f4bf3d074dba-16d58000ec4c2cb2-00005993.png
@@ -32,4 +33,7 @@ coastal,home,dark,num07helmet.png,29e5048ee1b01c10-7e5e67ed249670ca-00006214.png
 coastal,home,dark,num89helmet.png,4e7aba0fad9a80c8-7e5e67ed249670ca-00005dd4.png
 coastal,home,dark,num07ss.png,29e5048ee1b01c10-21e48a77539f5932-00006214.png
 coastal,home,dark,num89ss.png,4e7aba0fad9a80c8-21e48a77539f5932-00005dd4.png
-coastal,home,dark,glove.png,76dee81b015e8354-c8c347e1d0cc7ebc-000059d3.png
+coastal,home,dark,glove-uni-1.png,ed604dcd31bc5fd8-497ad1b8e4115a52-000059d3.png
+coastal,home,dark,glove-uni-2.png,ed604dcd31bc5fd8-2a00d8d34fbb8121-000059d3.png
+coastal,home,dark,glove-uni-1-second.png,ed604dcd31bc5fd8-3b0c938120e619f9-000059d3.png
+coastal,home,dark,glove-uni-2-second.png,ed604dcd31bc5fd8-5add3ec34d551f11-000059d3.png

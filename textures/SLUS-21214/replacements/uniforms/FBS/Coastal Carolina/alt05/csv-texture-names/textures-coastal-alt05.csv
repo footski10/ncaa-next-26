@@ -1,5 +1,6 @@
 TEAM NAME,SLOT,TYPE,TEXTURE,FILENAME
 coastal,alt05,dark,06-TC_Face_Protector.png,70cf006c2ba8aad7-26f84c3cad6a7b06-00005994.png
+coastal,alt05,dark,25-TC_Face_Protector_Top.png,6b25aad02bc781bb-26f84c3cad6a7b06-00005554.png
 coastal,alt05,dark,14-Bk_TC_Pad.png,7681550dea5b951d-2987e793ad1bcb06-00005993.png
 coastal,alt05,dark,10-Wt_TC_Pad.png,7681550dea5b951d-9f57371187bb886e-00005993.png
 coastal,alt05,dark,07-TC_Med_Band--34_sleeve_top.png,be85f4bf3d074dba-7be26c160fa107ea-00005993.png
@@ -12,6 +13,8 @@ coastal,alt05,dark,01-TC_Wrist.png,8006ca814728a41c-2987e793ad1bcb06-00005993.pn
 coastal,alt05,dark,wrist_Half_Sleeve_Wt.png,faf01b33cbdc0f1a-9f57371187bb886e-00005993.png
 coastal,alt05,dark,wrist_Half_Sleeve_Bk.png,faf01b33cbdc0f1a-2987e793ad1bcb06-00005993.png
 coastal,alt05,dark,11-TC_Half_Sleeve.png,faf01b33cbdc0f1a-662e3f5996625d0a-00005993.png
+coastal,alt05,dark,16-Shoe.png,9b96b9191c431b47-fb09b9d19e851255-000059d3.png
+coastal,alt05,dark,17-Shoe_w_White_Tape.png,adf3868e35b7c0c2-fb09b9d19e851255-000059d3.png
 coastal,alt05,dark,23-Shoe_w_Black_Tape.png,adf3868e35b7c0c2-9b95ea8fd8d731dc-000059d3.png
 coastal,alt05,dark,24-Shoe_w_TC_Tape.png,adf3868e35b7c0c2-11c9fe70a28be957-000059d3.png
 coastal,alt05,dark,13-Sock.png,6073d6e2a07a2da8-dfe4b43fe5e61d63-000059d4.png
@@ -30,4 +33,7 @@ coastal,alt05,dark,num07helmet.png,db8bf134dd5c495a-7e5e67ed249670ca-00006214.pn
 coastal,alt05,dark,num89helmet.png,20574a2b257950a3-7e5e67ed249670ca-00005dd4.png
 coastal,alt05,dark,num07ss.png,db8bf134dd5c495a-21e48a77539f5932-00006214.png
 coastal,alt05,dark,num89ss.png,20574a2b257950a3-21e48a77539f5932-00005dd4.png
-coastal,alt05,dark,glove.png,1e39ad838b434c1b-c8c347e1d0cc7ebc-000059d3.png
+coastal,alt05,dark,glove-uni-1.png,ed604dcd31bc5fd8-25d2c6e4bdcfd60b-000059d3.png
+coastal,alt05,dark,glove-uni-2.png,ed604dcd31bc5fd8-bb2328a458fa0ae6-000059d3.png
+coastal,alt05,dark,glove-uni-1-second.png,ed604dcd31bc5fd8-a4eaaf40ac33d099-000059d3.png
+coastal,alt05,dark,glove-uni-2-second.png,ed604dcd31bc5fd8-f25db2950a3d3137-000059d3.png

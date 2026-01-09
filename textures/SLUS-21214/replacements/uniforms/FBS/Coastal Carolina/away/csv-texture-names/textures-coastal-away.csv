@@ -1,5 +1,6 @@
 TEAM NAME,SLOT,TYPE,TEXTURE,FILENAME
 coastal,away,light,06-TC_Face_Protector.png,70cf006c2ba8aad7-a636a06b01d9190a-00005994.png
+coastal,away,light,25-TC_Face_Protector_Top.png,6b25aad02bc781bb-a636a06b01d9190a-00005554.png
 coastal,away,light,14-Bk_TC_Pad.png,7681550dea5b951d-f9d3eb0569e03936-00005993.png
 coastal,away,light,10-Wt_TC_Pad.png,7681550dea5b951d-7f0803822f1bf118-00005993.png
 coastal,away,light,07-TC_Med_Band--34_sleeve_top.png,be85f4bf3d074dba-1ee72931dde17917-00005993.png
@@ -32,4 +33,7 @@ coastal,away,light,num07helmet.png,f77d3b3ea3d9d322-86372989f9238953-00006214.pn
 coastal,away,light,num89helmet.png,6a89f2cce9f939c9-86372989f9238953-00005dd4.png
 coastal,away,light,num07ss.png,f77d3b3ea3d9d322-88d69c09588ec9f5-00006214.png
 coastal,away,light,num89ss.png,6a89f2cce9f939c9-88d69c09588ec9f5-00005dd4.png
-coastal,away,light,glove.png,9220b9665c09d8d7-c8c347e1d0cc7ebc-000059d3.png
+coastal,away,light,glove-uni-1.png,ed604dcd31bc5fd8-e896d46955b96438-000059d3.png
+coastal,away,light,glove-uni-2.png,ed604dcd31bc5fd8-5c3477dc2aec6662-000059d3.png
+coastal,away,light,glove-uni-1-second.png,ed604dcd31bc5fd8-98b881c07dbfe865-000059d3.png
+coastal,away,light,glove-uni-2-second.png,ed604dcd31bc5fd8-dd4f1cbab60d280-000059d3.png
