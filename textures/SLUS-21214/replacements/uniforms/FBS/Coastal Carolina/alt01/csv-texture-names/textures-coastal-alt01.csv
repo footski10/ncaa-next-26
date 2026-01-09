@@ -1,5 +1,6 @@
 TEAM NAME,SLOT,TYPE,TEXTURE,FILENAME
 coastal,alt01,dark,06-TC_Face_Protector.png,70cf006c2ba8aad7-3671b387e824630d-00005994.png
+coastal,alt01,dark,25-TC_Face_Protector_Top.png,6b25aad02bc781bb-3671b387e824630d-00005554.png
 coastal,alt01,dark,14-Bk_TC_Pad.png,7681550dea5b951d-1b0224277e9149c9-00005993.png
 coastal,alt01,dark,10-Wt_TC_Pad.png,7681550dea5b951d-fd9959673e2a2910-00005993.png
 coastal,alt01,dark,07-TC_Med_Band--34_sleeve_top.png,be85f4bf3d074dba-b519ffc3ec280d7a-00005993.png
@@ -13,6 +14,7 @@ coastal,alt01,dark,wrist_Half_Sleeve_Wt.png,faf01b33cbdc0f1a-fd9959673e2a2910-00
 coastal,alt01,dark,wrist_Half_Sleeve_Bk.png,faf01b33cbdc0f1a-1b0224277e9149c9-00005993.png
 coastal,alt01,dark,11-TC_Half_Sleeve.png,faf01b33cbdc0f1a-284fe33968e24427-00005993.png
 coastal,alt01,dark,16-Shoe.png,9b96b9191c431b47-819dcc589c79322e-000059d3.png
+coastal,alt01,dark,17-Shoe_w_White_Tape.png,adf3868e35b7c0c2-819dcc589c79322e-000059d3.png
 coastal,alt01,dark,23-Shoe_w_Black_Tape.png,adf3868e35b7c0c2-a2b808dc2ae72537-000059d3.png
 coastal,alt01,dark,24-Shoe_w_TC_Tape.png,adf3868e35b7c0c2-636b1d9e8cf273c4-000059d3.png
 coastal,alt01,dark,13-Sock.png,bfe94cfe01842dc7-dfe4b43fe5e61d63-000059d4.png
@@ -25,8 +27,13 @@ coastal,alt01,dark,pants.png,4dcc015ba4b96c7d-c7bf4c5f6fc6f6c7-00006213.png
 coastal,alt01,dark,jersey.png,6029d57a7cc6b15b-a17d0a53425af672-00006213.png
 coastal,alt01,dark,num07.png,e796a755668a32e9-bda30e3acc25c4fc-00006214.png
 coastal,alt01,dark,num89.png,677fdccaefa6ca8e-bda30e3acc25c4fc-00005dd4.png
+coastal,alt01,dark,num07shadow.png,e796a755668a32e9-c006383c99eb0c44-00006214.png
+coastal,alt01,dark,num89shadow.png,677fdccaefa6ca8e-c006383c99eb0c44-00005dd4.png
 coastal,alt01,dark,num07helmet.png,e796a755668a32e9-7e5e67ed249670ca-00006214.png
 coastal,alt01,dark,num89helmet.png,677fdccaefa6ca8e-7e5e67ed249670ca-00005dd4.png
 coastal,alt01,dark,num07ss.png,e796a755668a32e9-21e48a77539f5932-00006214.png
 coastal,alt01,dark,num89ss.png,677fdccaefa6ca8e-21e48a77539f5932-00005dd4.png
-coastal,alt01,dark,glove.png,a00a0df8ab9d1e59-c8c347e1d0cc7ebc-000059d3.png
+coastal,alt01,dark,glove-uni-1.png,ed604dcd31bc5fd8-2193073d78224ef3-000059d3.png
+coastal,alt01,dark,glove-uni-2.png,ed604dcd31bc5fd8-8b7edeb68a8155f1-000059d3.png
+coastal,alt01,dark,glove-uni-1-second.png,ed604dcd31bc5fd8-82ceec10891f91f8-000059d3.png
+coastal,alt01,dark,glove-uni-2-second.png,ed604dcd31bc5fd8-b20eea87ca4669ef-000059d3.png
